@@ -1,25 +1,20 @@
 
 
-header{
+#background{
     background-image: url(../img/pattern.png);
 }
 
-header>img{
+#logo{
     width: 202px;
     height: 150px;
 
 }
 
-
-
-main>div{
+.didascalia{
     font-weight: 800;
     color: grey;
 }
 
-Div>span{
-color: aqua;
-}
 
 p>span{
 background-color: yellow;
