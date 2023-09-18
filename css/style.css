@@ -1,3 +1,5 @@
+
+
 header{
     background-image: url(../img/pattern.png);
 }
@@ -6,4 +8,34 @@ header>img{
     width: 20%;
     height: 15%;
 }
+
+main>div{
+    font-size:1em;
+    color: grey;
+}
+
+Div>span{
+color: aqua;
+}
+
+p>span{
+color: yellow;
+}
+
+ul{
+    padding:1%;
+}
+
+th{
+color: white;
+}
+
+thead{
+    background-color:rgb(0, 155, 250)
+}
+
+.dispari{
+background-color:lightblue;
+}
+
 
