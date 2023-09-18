@@ -7,10 +7,13 @@ header{
 header>img{
     width: 20%;
     height: 15%;
+    margin-top: 2%;
 }
 
+
+
 main>div{
-    font-size:1em;
+    font-weight: 800;
     color: grey;
 }
 
@@ -19,11 +22,15 @@ color: aqua;
 }
 
 p>span{
-color: yellow;
+background-color: yellow;
 }
 
 ul{
     padding:1%;
+}
+
+th,td{
+width:200px;
 }
 
 th{
@@ -37,5 +44,24 @@ thead{
 .dispari{
 background-color:lightblue;
 }
+
+#fotoA{
+background-image: url(../img/monitor.jpg);
+width: 312px;
+height: 208px;
+background-size:cover;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#fotoB{
+background-image: url(../img/graph.jpg);
+width: 311px;
+height: 207px;
+background-size:cover;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+    }
 
 
